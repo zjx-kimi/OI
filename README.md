@@ -34,4 +34,6 @@
 - [sijiajun](https://www.luogu.com.cn/user/501614)
 - [Ch35](https://www.luogu.com.cn/user/672360)
 
-致敬.如果你觉得你没有 AFO 可以让我删掉.
+致敬.感谢你们让我的 OI 生涯更完整.
+
+如果你觉得你没有 AFO 可以让我删掉.
