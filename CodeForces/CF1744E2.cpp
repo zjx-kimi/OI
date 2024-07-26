@@ -1,17 +1,22 @@
 #include <bits/stdc++.h>
+#define int long long
 using namespace std;
 int t, a, b, c, d;
 void solve() {
     cin >> a >> b >> c >> d;
     vector <int> va, vb;
-    for (int i = 1; i * i <= a; i++) if (a % i == 0) va.push_back(i), va.push_back(i);
-    for (int i = 1; i * i <= c; i++) if (c % i == 0) vb.push_back(i), vb.push_back(c / i);
+    for (int i = 1; i * i <= a; i++) if (a % i == 0) va.push_back(i), va.push_back(a / i);
+    for (int i = 1; i * i <= b; i++) if (b % i == 0) vb.push_back(i), vb.push_back(b / i);
     for (int i : va) for (int j : vb) {
-        int k = i * j;
-        int x = (a / k + 1) / k;
+        int x = i * j;
+        int y = a * b / x;
+        x = (a / x + 1) * x;
+        y = (b / y + 1) * y;
+        if (a < x && x <= c && b < y && y <= d) return cout << x << ' ' << y << '\n', void();
     }
+    return cout << "-1 -1\n", void();
 }
-int main () {
+signed main () {
     cin >> t;
     while (t--) solve();
 }
