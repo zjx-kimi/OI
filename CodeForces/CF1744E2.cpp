@@ -7,7 +7,7 @@ void solve() {
     for (int i = 1; i * i <= a; i++) if (a % i == 0) va.push_back(i), va.push_back(i);
     for (int i = 1; i * i <= c; i++) if (c % i == 0) vb.push_back(i), vb.push_back(c / i);
     for (int i : va) for (int j : vb) {
-        
+        int k = i * j;
     }
 }
 int main () {
