@@ -1,5 +1,5 @@
 # OI
-## 2023.1 以前
+## Long long time ago
 曾学习过 \(\texttt{Js}\) 绘图，之后又涉猎 \(\texttt{Scratch}\)、\(\texttt{Python}\) 等语言，总体而言，耗费了不少时间。
 
 学习了 C++ 的基本语法、STL、暴力搜索、动态规划、简易算法等，却未能深入刷题。
