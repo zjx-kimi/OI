@@ -15,3 +15,23 @@
 ### 2024 年 7 月
 那段时光确实历经了许多艰难，父母的态度也愈加明显——若十月份的 CSP 考试无法如愿，则无需再继续学习信息。在这种情境下，我不禁开始思考 AFO 是否是真正的出路，亦或是让我与将来的荣誉失之交臂。
 我为了逆转 OI 的命运而努力拼搏。学习线性代数、组合数学、化学、概率与高等数学，每一天都沉浸在 OI 题目之中。曾经的自信，与如今的无奈形成了鲜明的对比，甚至被我的学弟逐渐超越。
+
+
+# 如今已经 AFO 的同学
+这些是已经 AFO 的同学,虽然都些是好朋友,有些是死对头,但都希望大家都有美好的未来.
+
+- [5793__qwq](https://www.luogu.com.cn/user/464001)
+- [zyx1013](https://www.luogu.com.cn/user/764698)
+- [Andy_L](https://www.luogu.com.cn/user/460429)
+- [jiangchen1234](https://www.luogu.com.cn/user/872579)
+- [liuyumo110509](https://www.luogu.com.cn/user/1089333)
+- [sordio](https://www.luogu.com.cn/user/578860)
+- [Dehydration](https://www.luogu.com.cn/user/661534)
+- [dark__night](https://www.luogu.com.cn/user/1064832)
+- [linmuhan](https://www.luogu.com.cn/user/596590)
+- [zhuhongming_AC](https://www.luogu.com.cn/user/748274)
+- [zhuhongming666](https://www.luogu.com.cn/user/678975)
+- [sijiajun](https://www.luogu.com.cn/user/501614)
+- [Ch35](https://www.luogu.com.cn/user/672360)
+
+致敬.如果你觉得你没有 AFO 可以让我删掉.
