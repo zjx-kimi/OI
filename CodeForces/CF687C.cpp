@@ -13,9 +13,9 @@ int main() {
             for (int k = 0; k <= m; k++) {
                 dp[i][j][k] |= dp[i - 1][j][k];
                 if (j >= a[i]) 
-                    dp[i][j][k] |= dp[i][j - a[i]][k];
+                    dp[i][j][k] |= dp[i - 1][j - a[i]][k];
                 if (j >= a[i] && k >= a[i])
-                    dp[i][j][k] |= dp[i][j - a[i]][k - a[i]];
+                    dp[i][j][k] |= dp[i - 1][j - a[i]][k - a[i]];
             }
         }
     }
