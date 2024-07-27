@@ -38,6 +38,8 @@
 - ![avatar](https://cdn.luogu.com.cn/upload/usericon/678975.png) [zhuhongming666](https://www.luogu.com.cn/user/678975)
 - ![avatar](https://cdn.luogu.com.cn/upload/usericon/501614.png) [sijiajun](https://www.luogu.com.cn/user/501614)
 - ![avatar](https://cdn.luogu.com.cn/upload/usericon/672360.png) [Ch35](https://www.luogu.com.cn/user/672360)
+- ![avatar](https://cdn.luogu.com.cn/upload/usericon/737029.png) [gedh](https://www.luogu.com.cn/user/737029)
+- ![avatar](https://cdn.luogu.com.cn/upload/usericon/320714.png) [我真的不知道](https://www.luogu.com.cn/user/320714)
 
 致敬，感谢你们让我的 OI 生涯更加完整。
 
