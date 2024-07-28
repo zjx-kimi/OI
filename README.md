@@ -23,7 +23,7 @@
 - 我为逆转 OI 的命运而不懈奋斗，日日沉浸于线性代数、组合数学、概率及 OI 题目之中。曾经的自信与现如今的无奈形成鲜明对比，甚至已被学弟逐渐超越。此生不悔入 OI，纵使艰难，也愿不忘初心。
 
 # 如今已然 AFO 的同学们
-这些是已经 AFO 的同学们，虽然有些是好朋友，有些则是死对头，但我希望大家都能迎来美好的未来。
+在 OI 的征途上，有一群人，他们如同闪耀的星辰，散发着独特的光芒。他们是那些曾经和我并肩作战，一起梦想的同学们。他们如今已经 AFO，回归文化课，却依旧散发着岁月沉淀的光辉。
 
 - ![avatar](https://cdn.luogu.com.cn/upload/usericon/464001.png) [5793__qwq](https://www.luogu.com.cn/user/464001)
 - ![avatar](https://cdn.luogu.com.cn/upload/usericon/764698.png) [zyx1013](https://www.luogu.com.cn/user/764698)
@@ -41,6 +41,6 @@
 - ![avatar](https://cdn.luogu.com.cn/upload/usericon/737029.png) [gedh](https://www.luogu.com.cn/user/737029)
 - ![avatar](https://cdn.luogu.com.cn/upload/usericon/320714.png) [我真的不知道](https://www.luogu.com.cn/user/320714)
 
-致敬，感谢你们让我的 OI 生涯更加完整。
+我向他们致以最崇高的敬意，感谢他们曾陪伴我一同战斗，为 OI 梦想，添彩添光。现在虽然各自在不同的舞台上闪耀，但心中那份对 OI 的热爱却永不熄灭。
 
-若你觉得自己未曾 AFO，可以告诉我以便删改。
+在 OI 的路上，每个人都有自己的节拍，没有谁比谁擅长，只有在不同的领域里展现着独特的风采。让我们共同致敬那些为梦想不懈努力的同学们，愿你们在未来的旅程中继续闪耀光芒，成就更加辉煌的人生。
