@@ -23,10 +23,12 @@
 - In such circumstances, I couldn't help but wonder if AFO was truly the way out or if it would cause me to miss out on future glory.
 - I tirelessly fought to reverse my fate in OI, immersing myself daily in linear algebra, combinatorial mathematics, probability, and OI problems. The stark contrast between my former confidence and my current helplessness was evident, and I had even been gradually surpassed by my juniors. I have no regrets about entering OI; despite the difficulties, I am willing to stay true to my original intention.
 
+<!--
+
 # Words to OI
 
 Over the past two years in OI, I have transformed from a child who couldn't even spell `include` into one who can write efficient code and solve problems effectively.
-
+-->
 # To My Classmates Who Are Now AFO
 On the journey of OI, there is a group of people who shine like stars, radiating unique brilliance. They are the classmates who once fought alongside me, sharing dreams together. They have now become AFO, returning to academic courses, yet still exuding the glow of time's accumulation.
 
