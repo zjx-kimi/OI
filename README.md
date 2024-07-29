@@ -2,12 +2,14 @@
 
 鉴于人力资源的有限性，欢迎同学们共同加入代码的贡献。
 
-本仓库中的某些代码可能并非原创，如有侵权之处，敬请联系我以便及时删除。
+本仓库中的某些代码可能并非原创，如有侵权之处，敬请联系我以便及时删除。 
 
 鸣谢：
 - [菜鸟工具](https://www.jyshare.com/front-end/7433/) 提供了代码图片的生成。
 - [Github](https://github.com) 提供代码保存服务。
 - [Google translate](https://translate.google.com/) 提供文本翻译服务。
+
+我的邮箱 : <1345098180@qq.com>
 
 This repository is designed to document code for the convenience of students to review.
 
@@ -19,3 +21,5 @@ Thank you:
 - [Cainiao Tool](https://www.jyshare.com/front-end/7433/) provides code pictures.
 - [github](https://github.com) provides code storage services.
 - [Google Translate](https://translate.google.com/) Provide text translation services.
+
+Email: <1345098180@qq.com>
