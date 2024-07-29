@@ -16,6 +16,6 @@ Due to limited human resources, students are encouraged to contribute to the cod
 Some of the code in this repository may not be original. If there are any infringement issues, please contact me for prompt removal.
 
 Thank you:
-- [Cainiao Tool] (https://www.jyshare.com/front-end/7433/) provides code pictures.
-- [github] (https://github.com) provides code storage services.
-- [Google Translate] (https://translate.google.com/) Provide text translation services.
+- [Cainiao Tool](https://www.jyshare.com/front-end/7433/) provides code pictures.
+- [github](https://github.com) provides code storage services.
+- [Google Translate](https://translate.google.com/) Provide text translation services.
