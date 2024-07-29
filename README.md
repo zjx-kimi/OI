@@ -10,4 +10,4 @@ Due to limited human resources, students are encouraged to contribute to the cod
 
 Some of the code in this repository may not be original. If there are any infringement issues, please contact me for prompt removal.
 
-email: <1345098180@qq.com>
+Email: <1345098180@qq.com>
