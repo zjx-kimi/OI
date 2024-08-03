@@ -7,6 +7,8 @@
 鸣谢：
 - [Github](https://github.com) 提供代码保存服务。
 - [Google translate](https://translate.google.com/) 提供文本翻译服务。
+和 
+<a href="https://github.com/zjx-kimi/OI/graphs/contributors"><img src="https://opencollective.com/oi-wiki/contributors.svg?width=890&button=false" /></a>
 
 我的邮箱 : <1345098180@qq.com>
 
