@@ -1,6 +1,6 @@
 本仓库旨在记录代码，便于同学们查阅。
 
-鉴于人力资源的有限性，欢迎同学们共同加入代码的贡献。
+鉴于人力资源的有限性，欢迎同学们共同加入代码的贡献，详见 [contribute.md]。
 
 本仓库中的某些代码可能并非原创，如有侵权之处，敬请联系我以便及时删除。 
 
@@ -10,7 +10,7 @@
 
 我的邮箱 : <1345098180@qq.com>
 
-This repository is designed to document code for the convenience of students to review.
+This repository is designed to document code for the convenience of students to review, See [Contribute.md] for details.
 
 Due to limited human resources, students are encouraged to contribute to the code collaboratively.
 
