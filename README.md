@@ -1,3 +1,5 @@
+[![Page Views Count](https://badges.toozhao.com/badges/01J4B8QBE2VTNQ82K66N017CNH/green.svg)](https://badges.toozhao.com/stats/01J4B8QBE2VTNQ82K66N017CNH)
+
 本仓库旨在记录代码，便于同学们查阅。
 
 鉴于人力资源的有限性，欢迎同学们共同加入代码的贡献。
