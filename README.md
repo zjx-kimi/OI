@@ -7,7 +7,6 @@
 鸣谢：
 - [Github](https://github.com) 提供代码保存服务。
 - [Google translate](https://translate.google.com/) 提供文本翻译服务。
-- ![](https://contrib.rocks/image?repo=zjx-kimi/OI)
 我的邮箱 : <1345098180@qq.com>
 
 This repository is designed to document code for the convenience of students to review.
@@ -19,5 +18,7 @@ Some of the code in this repository may not be original. If there are any infrin
 Thank you:
 - [github](https://github.com) provides code storage services.
 - [Google Translate](https://translate.google.com/) Provide text translation services.
-- ![](https://contrib.rocks/image?repo=zjx-kimi/OI)
 Email: <1345098180@qq.com>
+
+
+![](https://contrib.rocks/image?repo=zjx-kimi/OI)
