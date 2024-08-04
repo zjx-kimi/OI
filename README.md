@@ -25,4 +25,4 @@ Thank you:
 Email: <1345098180@qq.com>
 
 
-![](https://contrib.rocks/image?repo=zjx-kimi/OI)
+[![](https://contrib.rocks/image?repo=zjx-kimi/OI)](https://github.com/zjx-kimi/OI/graphs/contributors)
