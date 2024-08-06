@@ -2,20 +2,20 @@
 using namespace std;
 const int N = 1e6 + 5;
 const int M = 4e6 + 5;
- 
+
 struct Seg {
     int l, r;
 } a[N], ans[N];
 int acnt = 0;
- 
+
 int dsc[M], cnt = 0;
 int b[M];
- 
+
 int main(void) {
     int n, d;
     scanf("%d%d", &n, &d);
     for (int i = 1; i <= n; ++i) scanf("%d%d", &a[i].l, &a[i].r);
- 
+
     for (int i = 1; i <= n; ++i) {
         a[i].l *= 2;
         a[i].r *= 2;
@@ -29,10 +29,10 @@ int main(void) {
     for (int i = 1; i <= n; ++i)
         a[i].l = lower_bound(dsc + 1, dsc + cnt + 1, a[i].l) - dsc,
         a[i].r = lower_bound(dsc + 1, dsc + cnt + 1, a[i].r) - dsc;
- 
+
     for (int i = 1; i <= n; ++i)
         ++b[a[i].l], --b[a[i].r + 1];
- 
+
     int now = 0;
     bool flag = 0;
     for (int i = 1; i <= cnt; ++i) {
