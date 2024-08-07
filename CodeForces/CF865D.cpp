@@ -2,7 +2,7 @@
 using namespace std;
 priority_queue <long long, vector <long long>, greater <long long> > q;
 int main() {
-	int n, x, ans = 0;
+	long long n, x, ans = 0;
 	cin >> n;
 	while (n--) {
 		cin >> x;
