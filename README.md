@@ -19,7 +19,7 @@ Due to limited human resources, students are encouraged to contribute to the cod
 Some of the code in this repository may not be original. If there are any infringement issues, please contact me for prompt removal.
 
 Thank you:
-- [github](https://github.com) provides code storage services.
+- [Github](https://github.com) provides code storage services.
 - [Google Translate](https://translate.google.com/) Provide text translation services.
 
 Email: <1345098180@qq.com>
