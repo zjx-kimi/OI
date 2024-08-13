@@ -22,14 +22,14 @@ struct saying{
 	int days; // 表明的星期
 };
 vector <saying> P;
-vector <int> crime; // 犯罪人数
+set <int> crime; // 犯罪人数
 void check() {
 	int Day[10] = {0}, day = -1; // 0 表示可能 1 表示不可能
 	int Peo[N] = {0}, peo = -1;
 	for (saying i : P) {
-		i.yes ^= trust[i.say];
+		int I = i.yes ^ (1 - trust[i.say]);
 		if (i.days != -1) { // 证言关于星期
-			if (i.yes == 1) {
+			if (I == 1) {
 				if (Day[i.days]) return; 
 				if (day != -1 && day != i.days) return; 
 				if (day == -1) day = i.days;
@@ -43,7 +43,7 @@ void check() {
 			}
 		}
 		else {
-			if (i.yes == 1) {
+			if (I == 1) {
 				if (Peo[i.people]) return; 
 				if (peo != -1 && peo != i.people) return; 
 				if (peo == -1) peo = i.people;
@@ -57,12 +57,19 @@ void check() {
 			}
 		}
 	}
-	if (peo != -1) crime.push_back(peo);
+	if (peo != -1) {
+		crime.insert(peo);
+	} else if (m == 1) {
+		crime.insert(1);
+	} else if (peo == -1) {
+		for (int i = 1; i <= m; i++) if (Peo[i] == 0) crime.insert(i);
+	}
 }
 void dfs (int i, int x) { // 现在 id; 已经不诚信的人数
 	if (x > n) return;
 	if (i == m + 1) { // 枚举完了
-		check();
+		if (x == n) check();
+		return;
 	} 
 	trust[i] = true;
 	dfs (i + 1, x);
@@ -70,12 +77,9 @@ void dfs (int i, int x) { // 现在 id; 已经不诚信的人数
 	dfs (i + 1, x + 1);
 }
 int main() {
-    ios::sync_with_stdio(false);
-    cin.tie(0);
-    cout.tie(0);
 #ifdef kimi
-    freopen("in.txt", "r", stdin);
-    freopen("out.txt", "w", stdout);
+    freopen("../in.txt", "r", stdin);
+    freopen("../out.txt", "w", stdout);
 #endif
     cin >> m >> n >> p;
     for (int i = 1; i <= m; i++) {
@@ -86,10 +90,10 @@ int main() {
     	string s, t, o;
     	cin >> s >> t; getchar();
     	getline(cin, o);
-    	s.pop_back(); // 删除 :
-    	cout << s << "|";
-    	cout << t << "|";
-    	cout << o << "\n";
+    	s.pop_back();
+    	while(o.back()=='\r' || o.back()=='\n'){
+    		o.pop_back();
+		}
     	if (t == "I" && o == "am not guilty.") { // 我不是罪犯
     		P.push_back({id[s], id[s], 0, -1});
     	} else if (t == "I" && o == "am guilty.") { // 我是罪犯
@@ -110,6 +114,6 @@ int main() {
     dfs (1, 0);
     if (crime.size() == 0) puts("Impossible");
     else if (crime.size() > 1) puts("Cannot Determine");
-    else cout << s[crime[0]];
+    else cout << s[*crime.begin()];
     return 0;
 }
