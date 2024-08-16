@@ -24,7 +24,7 @@ with open("README.md", "r", encoding="utf-8") as file:
     readme_content = file.read()
 
 # Update the size in the README.md file
-new_content = re.sub(r"Repository Size: \*\*[\d\.]+ [MG]B\*\*", f"Repository Size: **{repo_size:.2f} {size_unit}**", readme_content)
+new_content = re.sub(r"本仓库已经存放 \*\*[\d\.]+ [MG]B\*\* 的代码了。", f"本仓库已经存放 **{repo_size:.2f} {size_unit}** 的代码了。", readme_content)
 
 # Write the updated content back to README.md
 with open("README.md", "w", encoding="utf-8") as file:
