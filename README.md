@@ -1,6 +1,4 @@
-[![Page Views Count](https://badges.toozhao.com/badges/01J4B8QBE2VTNQ82K66N017CNH/green.svg)](https://badges.toozhao.com/stats/01J4B8QBE2VTNQ82K66N017CNH)
-
-[![wakatime](https://wakatime.com/badge/github/zjx-kimi/OI.svg)](https://wakatime.com/badge/github/zjx-kimi/OI)
+[![Page Views Count](https://badges.toozhao.com/badges/01J4B8QBE2VTNQ82K66N017CNH/green.svg)](https://badges.toozhao.com/stats/01J4B8QBE2VTNQ82K66N017CNH) [![wakatime](https://wakatime.com/badge/github/zjx-kimi/OI.svg)](https://wakatime.com/badge/github/zjx-kimi/OI)
 
 本仓库旨在记录代码，便于同学们查阅。
 
