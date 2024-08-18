@@ -1,0 +1,7 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/kimi/Documents/OI/OI/CodeForces/CF1361B'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003F44, symSize: 0x4C }
+  - { offsetInCU: 0x2E6C, offset: 0x2E6C, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003F44, symSize: 0x4C }
+...
