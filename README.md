@@ -6,6 +6,8 @@
 
 本仓库中的某些代码可能并非原创，如有侵权之处，敬请联系我以便及时删除。 
 
+本仓库已经存放 10.29 MB 的代码了。
+
 鸣谢：
 - [Github](https://github.com) 提供代码保存服务。
 - [Google translate](https://translate.google.com/) 提供文本翻译服务。
